@@ -1,0 +1,11 @@
+**node_modules
+**.env
+**.eslintrc.json
+/nginx
+docker-compose.yml
+/client/yarn.lock
+/server/yarn.lock
+server/.huskyrc
+server/node_modules
+client/node_modules
+admin/node_modules
